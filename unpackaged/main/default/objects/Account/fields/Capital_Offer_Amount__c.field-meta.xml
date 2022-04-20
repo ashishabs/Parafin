@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Capital_Offer_Amount__c</fullName>
+    <description>Capital available for the business through the Parafin Cash Advance product.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Capital available for the business through the Parafin Cash Advance product.</inlineHelpText>
+    <label>Capital Offer Amount</label>
+    <precision>12</precision>
+    <required>false</required>
+    <scale>2</scale>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Currency</type>
+</CustomField>

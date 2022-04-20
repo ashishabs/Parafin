@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Capital_Offer_Link__c</fullName>
+    <description>Link to the capital offer for the cash advance product powered by Parafin.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Link to the capital offer for the cash advance product powered by Parafin.</inlineHelpText>
+    <label>Capital Offer Link</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Url</type>
+</CustomField>
